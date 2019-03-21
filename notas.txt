@@ -1,0 +1,7 @@
+pasos en los que armé el siguiente sender
+
+npm init
+
+npm install express,body-parser,nodemon -dev, simple-hl7, pg-promise
+
+crear index.js,app.js,env_util.js, routes/route_sender.js, controller/constructor.js

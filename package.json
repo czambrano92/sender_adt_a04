@@ -1,0 +1,19 @@
+{
+  "name": "sender_adt_a04",
+  "version": "1.0.0",
+  "description": "envia mensaje hl7 adt a04 - primera etapa: ris",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "czambrano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "pg-promise": "^8.6.3",
+    "simple-hl7": "^3.0.0"
+  }
+}
